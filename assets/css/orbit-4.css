@@ -342,7 +342,7 @@ p {
 /* Below is to force resume to be a bit longer, more white space*/
 
 section.section.experiences-section {
-	margin-bottom: 300px;
+	margin-bottom: 500px;
 }
 
 section.section:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) {
